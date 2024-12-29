@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: gray;
+    border: 2px solid darkgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px 15px;
+    background-color: darkgray;
+}
+
+header a{
+    color: aliceblue;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+
+nav{
+    text-align: center;
+    margin: 15px;
+}
+
+nav a{
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 5px 5px;
+    margin: 7px;
+    border-radius: 10px;
+    color: black;
+}
+
+.products{
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+main{
+    margin: 20px;
+}
+
+main h2{
+    font-size: 40px;
+}
+
+.bottom{
+    text-decoration: none;
+    color: black;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    padding: 5px;
+}
